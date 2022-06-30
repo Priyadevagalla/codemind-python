@@ -1,4 +1,2 @@
-x=float(input())
-pi=3.14
-k=pi*x*x
-print("{:.2f}".format(k))
+r=int(input())
+print("%.2f"%(3.14*r*r))
